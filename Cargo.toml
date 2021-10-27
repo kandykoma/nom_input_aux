@@ -1,6 +1,6 @@
 [package]
 name = "nom_input_aux"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Add support for managing arbitrary data during parsing with nom."
 license = "MIT"
