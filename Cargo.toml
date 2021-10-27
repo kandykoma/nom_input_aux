@@ -2,6 +2,8 @@
 name = "nom_input_aux"
 version = "0.1.0"
 edition = "2021"
+description = "Add support for managing arbitrary data during parsing with nom."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
